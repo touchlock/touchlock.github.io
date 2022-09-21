@@ -3,7 +3,6 @@ facebook.com, 1211047402628588, DIRECT, c3e20eee3f780d68
 
 
 ironsrc.com, [288699], Direct
-Remember to replace [288699]
 
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
